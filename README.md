@@ -67,7 +67,7 @@ In conclusion, BoomBikes is determined to revitalize its business by leveraging 
 
 ## Acknowledgements
 - This project was inspired by the increasing popularity of bike-sharing programs around the world.
-- Dataset Source: "Day" along with data info in "Data Dictionary".
+- Dataset Source: "[Day](https://github.com/sagar-maru/Bike-Sharing-Assignment/blob/main/day.csv)" along with data info in "[Data Dictionary](https://github.com/sagar-maru/Bike-Sharing-Assignment/blob/main/Data%20dictionary.txt)".
 - Dataset Inspired By: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
 - Special thanks to the various Python libraries and tools that made this project possible.
 
